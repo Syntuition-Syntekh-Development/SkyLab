@@ -1,1 +1,2 @@
 # SkyLab
+SkyLab is a free and open source 3D virtual science laboratory being developed by syntuitionists at syntuition.org for schools with little resources or materials for science experiments. The vision of the organization is to create this laboratory look indistinguable from reality and of course to reach the vision the laboratory will have to be changing with the ongoing updates on software that currently depends on it. For more information check the website www.syntuition.org
